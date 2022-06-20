@@ -1,6 +1,6 @@
 **RECEITA ESTROGONOF**
 
-### ingridientes 
+### INGREDIENTES 
 
 - 3 peitos de frango cortados em cubos
 - 1 dente de alho picado
@@ -13,4 +13,3 @@
 - 1 copo de cogumelos
 - 1 copo de creme de leite
 - batata palha a gosto
-
